@@ -37,6 +37,10 @@
   align-items: center;
 }
 
+p {
+  color: gold;
+  font-family: 'Charmonman', cursive;
+}
 .enter-school {
   font-family: 'Charmonman', cursive;
   height: 5vh;
@@ -68,4 +72,40 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.sort-me {
+  font-family: 'Charmonman', cursive;
+  height: 5vh;
+  width: 15%;
+  margin-bottom: 50px;
+  font-size:1em;
+  background-image: linear-gradient(to bottom right, rgb(209, 87, 6), rgb(245, 183, 12));
+  cursor: url('wand.png'), pointer;  
+  cursor: url('wand.png'), -moz-zoom-in;  
+  cursor: url('wand.png'), -webkit-zoom-in;
+}
+
+.sort-me:hover {
+  background-image: linear-gradient(to bottom right, rgb(245, 183, 12), rgb(209, 87, 6));
+}
+
+.quiz-button {
+  font-family: 'Charmonman', cursive;
+  height: 8vh;
+  width: 25%;
+  margin-top: 25px;
+  font-size:1em;
+  background-image: linear-gradient(to bottom right, rgb(209, 87, 6), rgb(245, 183, 12));
+  cursor: url('wand.png'), pointer;  
+  cursor: url('wand.png'), -moz-zoom-in;  
+  cursor: url('wand.png'), -webkit-zoom-in;
+}
+
+.quiz-button:hover {
+  background-image: linear-gradient(to bottom right, #910808, rgb(209, 87, 6));
+}
+
+.answer-four {
+  margin-bottom: 50px;  
 }
