@@ -1,6 +1,5 @@
 import React from 'react';
-import logo from '../img/hogwarts_shield.png';
-import hat from '../img/sorting_hat.png';
+import logo from '../img/Hogwartscrest.png';
 
 
 const Welcome = () => {
