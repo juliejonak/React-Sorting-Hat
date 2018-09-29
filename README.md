@@ -20,6 +20,13 @@ Welcome to Hogwarts, the School of Whitchcraft and Wizardy. One of the tools tha
 - Use [this guide](http://harrypotter.wikia.com/wiki/Hogwarts_Houses) to help craft your questions about the characteristics of each house.
 - In the event of a tie, simply randomize and select a house from the two options.
 
+
+
+
+
+
+
+
 ### Stretch Problems
 
 - Redo this entire project using [VueJS](https://vuejs.org/).
